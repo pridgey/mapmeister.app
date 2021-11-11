@@ -4,7 +4,7 @@
 <!-- svelte-ignore a11y-media-has-caption -->
 <!-- ignoring this rule because this is a silent video -->
 <video loop autoplay>
-  <source src="/Bg-Sway.webm" type="video/webm" />
+  <source src="/BgVideo.mp4" type="video/mp4" />
 </video>
 <main>
   <img src="/MapMeisterLogo.svg" style="width: 45vw" alt="MapMeister logo" />
